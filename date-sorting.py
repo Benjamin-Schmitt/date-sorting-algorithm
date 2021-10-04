@@ -41,7 +41,7 @@ for match in match_obj:
     my_list_1.append(rearange_2)
 
 #Ergebnis:
-# print(my_list_1) ### alle Elemente sind jetzt nach umgekehrt, nämlich nach Jahr, Monat, Tag sortiert
+# print(my_list_1) ### alle Elemente sind jetzt umgekehrt, nämlich nach Jahr, Monat, Tag sortiert
 
 
 my_list_2 = []
