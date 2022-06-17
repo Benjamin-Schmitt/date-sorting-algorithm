@@ -4,6 +4,12 @@ This script checks your .pdf or .txt or .docx file for dates and creates an orde
 # Important
 This was one of my first scripts ever. Check for variable names and conventions at your own peril.
 
+# Why is there no actualy legal file included?
+Data Protections laws prevent me to add an actual file to the repository.
+
+# How do I get an actual file to test this?
+Search google for "Urteil Amtsgericht Berlin", then copy paste it into a txt file and give it a go.
+
 # imports
 - regex module
 
