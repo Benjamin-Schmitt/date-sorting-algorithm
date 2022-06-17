@@ -23,16 +23,10 @@ print('Jahr | Monat | Tag')
 # print(type(match_obj))
 
 my_list_1 = []
-for match in match_obj:
-    # print(match)
+for match in match_obj:   
     sorti_1 = match[6:10]
-    # print(sorti_1)
-    
-    sorti_2 = match[3:6]
-    # print(sorti_2)
-    
+    sorti_2 = match[3:6]   
     sorti_3 = match[0:3]
-    # print(sorti_3)
 
     rearange = sorti_1 + sorti_2 + sorti_3
     rearange_2 = rearange.replace('.', '')
