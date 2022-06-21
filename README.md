@@ -16,13 +16,13 @@ Search google for "Urteil Amtsgericht Berlin", then copy paste it into a txt fil
 # Problem Solving Process
 TASK: order the dates
 - what does ordering mean.
-- ordering means to find the number, which is smallest
-- finding the number which is smallest means to comparing two numbers
-- comparing means taking one number and see if it is bigger than another
-- taking a number means to take one match in the iteration
+- ordering means finding the number, which is smallest and putting it first
+- finding the number which is smallest means comparing at least two numbers
+- comparing means taking one number and seeing if it is bigger than another
+- taking a number means taking out one match in the loop and pointing it to a space in memory
 - taking a match means saving the current iteration in a variable
 - saving the current match in a variable means getting the number of matches first
-- getting the number of matches means creating a variable for each match
+- getting the number of matches can be done by creating a variable for each match
 - then you can save the match in the variable
 - seeing which number is smallest means to check if it is bigger than another.
 - if it is smaller, compare IT to the next numbers
